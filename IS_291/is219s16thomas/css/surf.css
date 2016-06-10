@@ -1,0 +1,16 @@
+.btn-app {
+    margin-top: 15px;
+    border: solid 2px #000;
+    font-size: 40px;
+    color: #000;
+    transition: all .3s ease-in-out;
+}
+
+.btn-app:hover,
+.btn-app:focus,
+.btn-app:active,
+.btn-app.active {
+    border: solid 2px #18bc9c;
+    color: #18bc9c;
+    background: #000;
+}
